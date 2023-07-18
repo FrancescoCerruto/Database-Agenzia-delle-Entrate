@@ -1,0 +1,372 @@
+5	Abruzzo	L'aquila	Sulmona
+6	Abruzzo	Pescara	Popoli
+7	Abruzzo	Chieti	Lanciano
+8	Abruzzo	Chieti	Ortona
+9	Abruzzo	Chieti	Vasto
+10	Abruzzo	L'aquila	Avezzano
+11	Abruzzo	L'aquila	Castel di sangro
+12	Abruzzo	Teramo	Giulianova
+13	Abruzzo	Teramo	Atri
+16	Basilicata	Potenza	Venosa
+17	Basilicata	Matera	Policoro
+18	Basilicata	Matera	Pisticci
+19	Basilicata	Potenza	Melfi
+20	Basilicata	Potenza	Lagonegro
+26	Calabria	Cosenza	Cassano allo ionio
+27	Calabria	Cosenza	Belvedere marittimo
+28	Calabria	Vibo Valentia	Serra s. bruno
+29	Calabria	Reggio Calabria	Melito di porto salvo
+30	Calabria	Reggio Calabria	Roccella jonica
+31	Calabria	Cosenza	Acri
+32	Calabria	Catanzaro	Satriano
+33	Calabria	Reggio Calabria	Villa san giovanni
+34	Calabria	Catanzaro	Lamezia terme
+35	Calabria	Reggio Calabria	Locri
+36	Calabria	Cosenza	Paola
+37	Calabria	Crotone	Crotone
+38	Calabria	Cosenza	Rossano
+39	Calabria	Cosenza	Castrovillari
+40	Calabria	Reggio Calabria	Palmi
+46	Campania	Caserta	Piedimonte matese
+47	Campania	Salerno	Costa damalfi
+48	Campania	Benevento	Cerreto
+49	Campania	Salerno	Agropoli  via
+50	Campania	Benevento	S.bartolomeo
+51	Campania	Avellino	Santangelo dei lombardi
+52	Campania	Salerno	Sala consilina
+53	Campania	Napoli	Casoria
+54	Campania	Napoli	Nola
+55	Campania	Avellino	Ariano irpino
+56	Campania	Napoli	Pozzuoli
+57	Campania	Salerno	Vallo della lucania
+58	Campania	Caserta	Aversa
+59	Campania	Caserta	Sessa aurunca
+60	Campania	Salerno	Pagani
+61	Campania	Napoli	Ischia
+71	Emilia-Romagna	Piacenza	Bobbio
+72	Emilia-Romagna	Parma	Borgo
+73	Emilia-Romagna	Modena	Pavullo nel frignano
+74	Emilia-Romagna	Modena	Carpi
+75	Emilia-Romagna	Bologna	Imola
+76	Emilia-Romagna	Ravenna	Faenza
+77	Emilia-Romagna	Ravenna	Lugo
+78	Emilia-Romagna	Modena	Sassuolo
+79	Emilia-Romagna	Ferrara	Comacchio
+80	Emilia-Romagna	Forli-Cesena	Forli
+81	Emilia-Romagna	Parma	Fidenza
+82	Emilia-Romagna	Forli-Cesena	Cesena
+83	Emilia-Romagna	Ferrara	Cento
+88	Friuli-Venezia Giulia	Udine	Latisana
+89	Friuli-Venezia Giulia	Udine	Gemona del griuli
+90	Friuli-Venezia Giulia	Pordenone	Maniago
+91	Friuli-Venezia Giulia	Gorizia	Monfalcone
+92	Friuli-Venezia Giulia	Udine	Cervignano del friuli
+93	Friuli-Venezia Giulia	Udine	Tolmezzo
+94	Friuli-Venezia Giulia	Gorizia	Gorizia
+100	Lazio	Roma	Nettuno
+101	Lazio	Roma	Anzio
+102	Lazio	Roma	Civitavecchia
+103	Lazio	Roma	Palestrina
+104	Lazio	Roma	Velletri
+105	Lazio	Frosinone	Sora
+106	Lazio	Roma	Pomezia
+107	Lazio	Roma	Frascati
+108	Lazio	Rieti	Rieti
+109	Lazio	Viterbo	Viterbo
+110	Lazio	Roma	Albano laziale
+111	Lazio	Latina	Formia
+112	Lazio	Roma	Tivoli
+113	Lazio	Frosinone	Cassino
+118	Liguria	Savona	Albenga
+119	Liguria	Imperia	Sanremo
+120	Liguria	Genova	Chiavari
+133	Lombardia	Bergamo	Lovere
+134	Lombardia	Cremona	Soresina
+135	Lombardia	Bergamo	Zogno
+136	Lombardia	Varese	Luino
+137	Lombardia	Como	Menaggio
+138	Lombardia	Pavia	Mede
+139	Lombardia	Bergamo	Romano di lombardia
+140	Lombardia	Sondrio	Tirano
+141	Lombardia	Mantova	Suzzara
+142	Lombardia	Milano	Legnano
+143	Lombardia	Pavia	Mortara
+144	Lombardia	Como	Cantu
+145	Lombardia	Milano	Gorgonzola
+146	Lombardia	Monza E Brianza	Desio
+147	Lombardia	Brescia	Montichiari
+148	Lombardia	Bergamo	Ponte san pietro
+149	Lombardia	Como	Erba
+150	Lombardia	Varese	Gavirate
+151	Lombardia	Pavia	Voghera
+152	Lombardia	Varese	Saronno
+153	Lombardia	Brescia	Gardone val trompia
+154	Lombardia	Lecco	Merate
+155	Lombardia	Monza E Brianza	Monza
+156	Lombardia	Milano	Cinisello balsamo
+157	Lombardia	Varese	Gallarate
+158	Lombardia	Lodi	Codogno
+159	Lombardia	Brescia	Chiari
+160	Lombardia	Varese	Busto arsizio
+161	Lombardia	Sondrio	Morbegno
+162	Lombardia	Milano	Rho
+163	Lombardia	Pavia	Stradella
+164	Lombardia	Bergamo	Clusone
+165	Lombardia	Brescia	Verolanuova
+166	Lombardia	Bergamo	Treviglio
+167	Lombardia	Cremona	Crema
+168	Lombardia	Brescia	Salo
+169	Lombardia	Brescia	Breno
+170	Lombardia	Pavia	Vigevano
+171	Lombardia	Monza E Brianza	Vimercate
+172	Lombardia	Mantova	Castiglione delle stiviere
+173	Lombardia	Cremona	Casalmaggiore
+179	Marche	Macerata	Camerino
+180	Marche	Macerata	Civitanova marche
+181	Marche	Ancona	Fabriano
+182	Marche	Macerata	Recanati
+183	Marche	Pesaro E Urbino	Fano
+184	Marche	Pesaro E Urbino	Pesaro
+185	Marche	Pesaro E Urbino	Urbino
+186	Marche	Macerata	Tolentino
+187	Marche	Ascoli Piceno	San benedetto del tronto
+188	Marche	Ancona	Senigallia
+189	Marche	Ancona	Jesi
+192	Molise	Campobasso	Termoli
+201	Piemonte	Asti	Canelli
+202	Piemonte	Novara	Arona
+203	Piemonte	Torino	Savigliano
+204	Piemonte	Cuneo	Bra
+205	Piemonte	Verbano-cusio-ossola	Domodossola
+206	Piemonte	Alessandria	Ovada
+207	Piemonte	Alessandria	Tortona
+208	Piemonte	Torino	Cirie
+209	Piemonte	Torino	Rivoli
+210	Piemonte	Cueno	Alba
+211	Piemonte	Torino	Moncalieri
+212	Piemonte	Torino	Pinerolo
+213	Piemonte	Torino	Cuorgne
+214	Piemonte	Alessandria	Acqui terme
+215	Piemonte	Alessandria	Novi ligure
+216	Piemonte	Novara	Borgomanero
+217	Piemonte	Vercelli	Borgosesia
+218	Piemonte	Torino	Ivrea
+219	Piemonte	Torino	Chivasso
+220	Piemonte	Verbano-cusio-ossola	Verbania
+221	Piemonte	Torino	Susa
+222	Piemonte	Alessandria	Casale monferrato
+223	Piemonte	Cuneo	Mondovi
+224	Piemonte	Cuneo	Saluzzo
+231	Puglia	Lecce	Gallipoli
+232	Puglia	Barletta-andria-trani	Barletta
+233	Puglia	Lecce	Maglie
+234	Puglia	Bari	Gioia del colle
+235	Puglia	Barletta-andria-trani	Trani
+236	Puglia	Foggia	Cerignola
+237	Puglia	Foggia	Lucera
+238	Puglia	Brrindisi	Ostuni
+239	Puglia	Foggia	Manfredonia
+240	Puglia	Lecce	Casarano
+241	Puglia	Foggia	San severo
+246	Sardegna	Nuoro	Macomer
+247	Sardegna	Sud Sardegna	Isili
+248	Sardegna	Sassari	Ozieri
+249	Sardegna	Sassari	Alghero
+250	Sardegna	Sud Sardegna	Sanluri
+251	Sardegna	Nuoro	Lanusei
+252	Sardegna	Sud Sardegna	Iglesias
+253	Sardegna	Sassari	Olbia
+254	Sardegna	Sassari	Tempio pausania
+264	Sicilia	Catania	Adrano
+265	Sicilia	Agrigento	Licata
+266	Sicilia	Trapani	Alcamo
+267	Sicilia	Messina	Mistretta
+268	Sicilia	Caltanissetta	Mussomeli
+269	Sicilia	Palermo	Cefalu
+270	Sicilia	Trapani	Pantelleria
+271	Sicilia	Messina	Patti
+272	Sicilia	Palermo	Corleone
+273	Sicilia	Messina	Lipari
+274	Sicilia	Palermo	Partinico
+275	Sicilia	Palermo	Lercara friddi
+276	Sicilia	Enna	Nicosia
+277	Sicilia	Trapani	Castelvetrano
+278	Sicilia	Agrigento	Canicatti
+279	Sicilia	Agrigento	Sciacca
+280	Sicilia	Siracusa	Noto
+281	Sicilia	Catania	Caltagirone
+282	Sicilia	Palermo	Bagheria
+283	Sicilia	Messina	Taormina
+284	Sicilia	Ragusa	Vittoria
+285	Sicilia	Catania	Giarre
+286	Sicilia	Messina	Santagata di militello
+287	Sicilia	Ragusa	Modica
+288	Sicilia	Messina	Barcellona pozzo di gotto
+289	Sicilia	Palermo	Termini imerese
+290	Sicilia	Caltanissetta	Gela
+291	Sicilia	Trapani	Marsala
+292	Sicilia	Catania	Acireale
+303	Toscana	Arezzo	Cortona
+304	Toscana	Massa Carrara	Pontremoli
+305	Toscana	Pisa	Volterra
+306	Toscana	Massa Carrara	Massa
+307	Toscana	Livorno	Cecina
+308	Toscana	Lucca	Borgo a mozzano
+309	Toscana	Lucca	Pietrasanta
+310	Toscana	Arezzo	Poppi
+311	Toscana	Grosseto	Pollonica
+312	Toscana	Pisa	Pontedera
+313	Toscana	Livorno	Portoferraio
+314	Toscana	Pisa	San miniato
+315	Toscana	Arezzo	Montevarchi
+316	Toscana	Arezzo	Sansepolcro
+317	Toscana	Grosseto	Orbetello
+318	Toscana	Siena	Poggibonsi
+319	Toscana	Livorno	Piombino
+320	Toscana	Lucca	Viareggio
+321	Toscana	Siena	Montepulciano
+322	Toscana	Pistoia	Pescia
+323	Toscana	Firenze	Borgo san lorenzo
+324	Toscana	Firenze	Empoli
+325	Toscana	Lucca	Castelnuovo di garfagnana
+326	Toscana	Massa Carrara	Aulla
+327	Toscana	Siena	Piccolomini
+330	Trentino-alto Adige	Trento	Rovereto
+331	Trentino-alto Adige	Trento	Tiote di trento
+332	Trentino-alto Adige	Bolzano	Merano
+333	Trentino-alto Adige	Trento	Cavalese
+334	Trentino-alto Adige	Trento	Cles
+335	Trentino-alto Adige	Bolzano	Bressanone
+336	Trentino-alto Adige	Trento	Valsugnana
+337	Trentino-alto Adige	Trento	Riva del garda
+340	Umbria	Terni	Amelia
+341	Umbria	Perugia	Gualdo tadino
+342	Umbria	Perugia	Spoleto
+343	Umbria	Perugia	Citta di castello
+344	Umbria	Perugia	Foligno
+345	Umbria	Terni	Orvieto
+347	Valle D'aosta	Aosta	Chatillon
+355	Veneto	Rovigo	Badia polesine
+356	Veneto	Verona	Caprino veronese
+357	Veneto	Treviso	Oderzo
+358	Veneto	Belluno	Pieve di cadore
+359	Veneto	Vicenza	Thiene
+360	Veneto	Treviso	Montebelluna
+361	Veneto	Padova	Cittadella
+362	Veneto	Venezia	Portoguaro
+363	Veneto	Vicenza	Valdagno
+364	Veneto	Verona	Legnago
+365	Veneto	Verona	Soave
+366	Veneto	Venezia	Chioggia
+367	Veneto	Belluno	Feltre
+368	Veneto	Rovigo	Adria
+369	Veneto	Vicenza	Bassano del grappa
+370	Veneto	Padova	Este
+371	Veneto	Treviso	Conegliano
+372	Veneto	Venezia	San dona di piave
+1	Abruzzo	Chieti	NULL
+2	Abruzzo	Teramo	NULL
+3	Abruzzo	Pescara	NULL
+4	Abruzzo	L'aquila	NULL
+14	Basilicata	Potenza	NULL
+15	Basilicata	Matera	NULL
+21	Calabria	Crotone	NULL
+22	Calabria	Vibo Valentia	NULL
+23	Calabria	Catanzaro	NULL
+24	Calabria	Cosenza	NULL
+25	Calabria	Reggio Calabria	NULL
+41	Campania	Napoli	NULL
+42	Campania	Caserta	NULL
+43	Campania	Avellino	NULL
+44	Campania	Benevento	NULL
+45	Campania	Salerno	NULL
+62	Emilia-Romagna	Modena	NULL
+63	Emilia-Romagna	Bologna	NULL
+64	Emilia-Romagna	Forli-Cesena	NULL
+65	Emilia-Romagna	Rimini	NULL
+66	Emilia-Romagna	Ravenna	NULL
+67	Emilia-Romagna	Reggio Emilia	NULL
+68	Emilia-Romagna	Ferrara	NULL
+69	Emilia-Romagna	Parma	NULL
+70	Emilia-Romagna	Piacenza	NULL
+84	Friuli-Venezia Giulia	Udine	NULL
+85	Friuli-Venezia Giulia	Gorizia	NULL
+86	Friuli-Venezia Giulia	Trieste	NULL
+87	Friuli-Venezia Giulia	Pordenone	NULL
+95	Lazio	Frosinone	NULL
+96	Lazio	Roma	NULL
+97	Lazio	Latina	NULL
+98	Lazio	Viterbo	NULL
+99	Lazio	Rieti	NULL
+114	Liguria	Savona	NULL
+115	Liguria	La Spezia	NULL
+116	Liguria	Genova	NULL
+117	Liguria	Imperia	NULL
+121	Lombardia	Brescia	NULL
+122	Lombardia	Varese	NULL
+123	Lombardia	Lecco	NULL
+124	Lombardia	Mantova	NULL
+125	Lombardia	Milano	NULL
+126	Lombardia	Como	NULL
+127	Lombardia	Pavia	NULL
+128	Lombardia	Cremona	NULL
+129	Lombardia	Lodi	NULL
+130	Lombardia	Sondrio	NULL
+131	Lombardia	Bergamo	NULL
+132	Lombardia	Monza E Brianza	NULL
+174	Marche	Ancona	NULL
+175	Marche	Fermo	NULL
+176	Marche	Ascoli Piceno	NULL
+177	Marche	Pesaro E Urbino	NULL
+178	Marche	Macerata	NULL
+190	Molise	Isernia	NULL
+191	Molise	Campobasso	NULL
+193	Piemonte	Verbano-cusio-ossola	NULL
+194	Piemonte	Alessandria	NULL
+195	Piemonte	Asti	NULL
+196	Piemonte	Vercelli	NULL
+197	Piemonte	Torino	NULL
+198	Piemonte	Cuneo	NULL
+199	Piemonte	Biella	NULL
+200	Piemonte	Novara	NULL
+225	Puglia	Barletta-andria-trani	NULL
+226	Puglia	Lecce	NULL
+227	Puglia	Brindisi	NULL
+228	Puglia	Bari	NULL
+229	Puglia	Foggia	NULL
+230	Puglia	Taranto	NULL
+242	Sardegna	Nuoro	NULL
+243	Sardegna	Oristano	NULL
+244	Sardegna	Cagliari	NULL
+245	Sardegna	Sassari	NULL
+255	Sicilia	Catania	NULL
+256	Sicilia	Siracusa	NULL
+257	Sicilia	Enna	NULL
+258	Sicilia	Trapani	NULL
+259	Sicilia	Palermo	NULL
+260	Sicilia	Messina	NULL
+261	Sicilia	Ragusa	NULL
+262	Sicilia	Agrigento	NULL
+263	Sicilia	Caltanissetta	NULL
+293	Toscana	Pisa	NULL
+294	Toscana	Livorno	NULL
+295	Toscana	Massa Carrara	NULL
+296	Toscana	Siena	NULL
+297	Toscana	Grosseto	NULL
+298	Toscana	Lucca	NULL
+299	Toscana	Pistoia	NULL
+300	Toscana	Arezzo	NULL
+301	Toscana	Firenze	NULL
+302	Toscana	Prato	NULL
+328	Trentino-alto Adige	Trento	NULL
+329	Trentino-alto Adige	Bolzano	NULL
+338	Umbria	Terni	NULL
+339	Umbria	Perugia	NULL
+346	Valle D'aosta	Aosta	NULL
+348	Veneto	Padova	NULL
+349	Veneto	Treviso	NULL
+350	Veneto	Rovigo	NULL
+351	Veneto	Belluno	NULL
+352	Veneto	Verona	NULL
+353	Veneto	Vicenza	NULL
+354	Veneto	Venezia	NULL

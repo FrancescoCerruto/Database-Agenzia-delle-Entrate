@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script type="text/javascript" language="javascript" src="http://code.jquery.com/jquery-1.12.4.js"></script>
+    <script type="text/javascript" language="javascript" src="js/jquery.steps.js"></script>
+    <script type="text/javascript" language="javascript" src="js/jquery.steps.min.js"></script>
+    <script type="text/javascript" language="javascript" src="js/registration.js"></script>
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" crossorigin="anonymous">
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link rel="stylesheet" type="text/css" href="css/jquery.steps.css">
+    <link href="css/Stile.css" rel="stylesheet" media="screen">
+
+</head>
+
+<body>
+
+    <div id="sign_up">
+
+        <h3>Dati utente</h3>
+
+        <section>
+            <div class="input-container">
+                <i class="fa fa-user icon"></i>
+                <input id="nome" type="textarea" class="form-control" placeholder="Inserisci il nome">
+            </div>
+
+            <div class="input-container">
+                <i class="fa fa-user icon"></i>
+                <input id="cognome" type="textarea" class="form-control" placeholder="Inserisci il cognome">
+            </div>
+
+            <div class="input-container">
+                <i class="fa fa-calendar icon"></i>
+                <input id="data_nascita" type="Date" class="form-control" placeholder="Inserisci la data di nascita">
+            </div>
+
+            <div class="input-container">
+                <i class="fa fa-user icon"></i>
+                <input id="codice_fiscale" type="textarea" class="form-control" placeholder="Inserisci il codice fiscale">
+            </div>
+
+            <div class="input-container">
+                <i class="fas fa-briefcase icon"></i>
+                <select class="form-control" id="tipo_utente">
+                    <option value="" disabled selected hidden>Seleziona il tipo utente</option>
+                    <option value="Cittadino">Cittadino</option>
+                    <option value="Ente">Ente</option>
+                    <option value="Impiegato">Impiegato</option>
+                </select>
+            </div>
+
+            <div class="input-container">
+                <i class="fas fa-map-marker-alt icon"></i>
+                <input id="indirizzo" type="textarea" class="form-control" placeholder="Inserisci l'indirizzo di residenza">
+            </div>
+
+            <div class="input-container">
+                <i class="fas fa-map-marker-alt icon"></i>
+                <input id="comune" type="textarea" class="form-control" placeholder="Inserisci il comune di residenza">
+            </div>
+
+            <div class="input-container">
+                <i class="fas fa-map-marker-alt icon"></i>
+                <input id="provincia" type="textarea" class="form-control" placeholder="Inserisci la provincia di residenza">
+            </div>
+
+        </section>
+
+        <h3>Dati ente</h3>
+
+        <section class="step_1" style="display:none">
+
+            <div class="input-container">
+                <i class="fas fa-briefcase icon"></i>
+                <input id="delegante" type="textarea" class="form-control" placeholder="Inserisci il delegante">
+            </div>
+
+        </section>
+
+        <h3>Dati dipentente</h3>
+
+        <section>
+            <div class="input-container">
+                <i class="far fa-building icon"></i>
+                <select class="form-control" id="regione_sede" name="regione_sede" onchange="onRegioneChange()">
+                    <option value="" disabled selected hidden>Seleziona la regione della sede</option>
+                </select>
+            </div>
+
+            <div class="input-container">
+                <i class="far fa-building icon"></i>
+                <select class="form-control" id="provincia_sede" name="provincia_sede" onchange="onProvinciaChange()">
+                    <option value="" disabled selected hidden>Seleziona la provincia della sede</option>
+                </select>
+            </div>
+
+            <div class="input-container">
+                <i class="far fa-building icon"></i>
+                <select class="form-control" id="comune_sede" name="comune">
+                    <option value="" disabled selected hidden>Seleziona il comune della sede</option>
+                </select>
+            </div>
+
+            <div class="input-container">
+                <i class="far fa-building icon"></i>
+                <select class="form-control" id="area">
+                    <option value="" disabled selected hidden>Seleziona l'area</option>
+                    <option value="Controlli">Controlli</option>
+                    <option value="Legale">Legale</option>
+                    <option value="Territoriale">Territoriale</option>
+                </select>
+            </div>
+
+            <div class="input-container">
+                <i class="fas fa-building icon"></i>
+                <input id="numero_stanza" type="number" class="form-control" placeholder="Inserisci il numero stanza">
+            </div>
+
+            <div class="input-container">
+                <i class="fas fa-briefcase icon"></i>
+                <select class="form-control" id="nome_servizio">
+                    <option value="" disabled selected hidden>Seleziona il servizio</option>
+                    <option value="Agevolazioni">Agevolazioni</option>
+                    <option value="Dichiarazioni">Dichiarazioni</option>
+                    <option value="Pagamenti e rimborsi">Pagamenti e rimborsi</option>
+                    <option value="Fabbricati e terreni">Fabbricati e terreni</option>
+                    <option value="Accertamenti e regolarizzazioni">Accertamenti e regolarizzazioni</option>
+                    <option value="Istanze e comunicazioni">Istanze e comunicazioni</option>
+                </select>
+            </div>
+
+        </section>
+
+        <h3>Info account</h3>
+
+        <section>
+            <div class="input-container">
+                <i class="fa fa-user icon"></i>
+                <input id="username" type="textarea" class="form-control" readonly>
+            </div>
+
+            <div class="input-container">
+                <i class="fa fa-key icon"></i>
+                <input id="password" type="password" class="form-control" placeholder="Enter password">
+            </div>
+
+            <div class="input-container">
+                <i class="fa fa-key icon"></i>
+                <input id="conf_password" type="password" class="form-control" placeholder="Confirm password">
+            </div>
+        </section>
+    </div>
+    
+    <button id="logout" type="button" class="btn btn-primary">Logout</button>
+
+</body>
+</html>

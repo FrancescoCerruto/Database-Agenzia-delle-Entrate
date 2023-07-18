@@ -1,0 +1,167 @@
+h1,h2,h4{
+    color: darkblue;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+p{
+    color: blue;
+}
+
+.btn-primary{
+    border-color: darkblue;
+}
+
+.selected{
+    color: darkblue;
+    background-color: white;
+}
+
+.btn-nav{
+    width: 100%;
+}
+
+#contenitore{
+    margin-top: 20%;
+    margin-bottom: 40%;
+    text-align: center;
+    border: 2px solid darkblue;
+    -webkit-border-radius: 20px;
+}
+
+.btn_info{
+    background-color: transparent;
+    border: none;
+}
+
+.fa-star{
+    color: gray;
+}
+
+.contenitore{
+    text-align: center;
+    font-size: 40px;
+}
+
+#inner{
+    height: auto;
+    padding: 5%;
+}
+
+.carousel-item{
+    text-align: center;
+    height: 500px;
+    font-size: 25px;
+}
+
+.card{
+    text-align: center;
+    font-size: 30px;
+}
+
+.input-container{
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.icon{
+    padding: 10px;
+    background: dodgerblue;
+    color: white;
+    min-width: 50px;
+    text-align: center;
+}
+
+.sidenav {
+    height: 100%; /* 100% Full-height */
+    width: 0; /* 0 width - change this with JavaScript */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Stay on top */
+    top: 0; /* Stay at the top */
+    left: 0;
+    background-color: darkblue; /* Black*/
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 60px; /* Place content 60px from the top */
+    transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+}
+
+/* The navigation menu links */
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color:  white;
+    display: block;
+    transition: 0.3s;
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+    text-decoration: underline;
+}
+
+.sidenav li{
+    list-style: none;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+#page {
+    transition: margin-left .5s;
+    padding: 20px;
+}
+
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav li a {font-size: 18px;}
+}
+
+.statistics{
+    width: 100%;
+    height: 100%;
+    border: 2px solid darkblue;
+    -webkit-border-radius: 20px;
+}
+
+.img_user{
+    position: relative;
+    left: 33%;
+    top: 20%;
+    margin-bottom: 10%;
+}
+
+.label{
+    margin-right: 15%;
+    margin-left: 5%;
+    color: blue;
+    font-size: 20px;
+}
+
+.control-label{
+    color: blue;
+    font-size: 20px;
+}
+
+.icon-sidebar{
+    color: white;
+}
+
+.title{
+    text-align: left;
+    margin-left: 8%;
+    margin-top: 5%;
+}
+
+#btn_add_card{
+    position: relative;
+    left: 50%;
+    font-size: 40px;
+    width: 70px
+}
