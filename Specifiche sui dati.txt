@@ -1,0 +1,55 @@
+Si vuole progettare una base di dati per la gestione delle richieste
+d’accesso in presenza ai servizi dell’Agenzia delle Entrate.
+L’ente ticolato in pi sedi o dipartimenti. Ogni provincia italiana
+ospita una sede; oltre alle sedi provinciali, altre sedi possono essere
+presenti in alcuni comuni. Ogni sede, indipendentemente che sia pro-
+vinciale o comunale, entifi cata da un codice ed visa in aree o settori:
+Area controlli, Area legale e Area territoriale. Ogni area di ciascun diparti-
+mento entifi cata dal codice della sede e dal nome del settore stessoe
+ha i suoi impiegati (o dipendenti).
+Tutte le aree sono aperte al pubblico dalle 8:00 alle 12:00 per i cittadi-
+ni e dalle 14:00 alle 18:00 per i rappresentanti di Enti o grandi aziende.
+In ogni area operano 6 dipendenti, e pertanto 18 impiegati per ogni
+sede. Ciascun impiegato llocato in un uffi cio specifi co, ha un suo carico
+di lavoro giornaliero, si occupa di un unico servizio e riesce a evadere
+mediamente 1 pratica ogni 15 minuti la mattina e una pratica ogni 45
+minuti il pomeriggio (si suppone che la pratica di un rappresentante
+richieda il triplo del tempo rispetto a quella di un cittadino standard).
+Il carico di lavoro riporta giornalmente, per ogni dipendente, gli identi-
+fi cativi delle richieste e gli identifi cativi dei richiedenti delle domande
+a lui assegnate.
+I servizi erogati sono identifi cati da un codice e sono rappresentati
+dalle stringhe univoche Agevolazioni, Dichiarazioni, Pagamenti e rimborsi,
+Fabbricati e terreni, Accertamenti e regolarizzazione, Istanze e comunicazioni.
+Ciascun servizio ogato in ogni sede sempre dalla stessa area. Ad
+esempio, il servizio ’agevolazioni’ ogato sempre dall’area ’legale’.
+Ad ogni area di ciascuna sede sono associate delle informazioni sta-
+tistiche sulla capacit ricezione del pubblico in funzione del numero di
+addetti a quel determinato servizio e alla capacit lavoro del dipendente.
+Queste stime vengono utilizzate dal sistema informatico per gestire il
+fl usso di accesso alla sede da parte degli utenti.
+L’utente ratterizzato dal codice fi scale, dal nome, dal cognome, dalla
+data di nascita, dall’indirizzo, dal comune e dalla provincia di residen-
+za. L’utente, inoltre, deve essere registrato nel portale dell’Agenzia
+delle Entrate ed accede tramite il suo codice fi scale ed una password.
+L’utente viene identifi cato dal suo codice progressivo di registrazione
+al sito.
+Ai fi ni della prenotazione, gli utenti vengono divisi in clientie
+impiegati. I dipendenti usufruiscono del sistema per consultare il
+proprio carico di lavoro giornaliero, mentre i clienti lo utilizzano per
+effettuare le prenotazioni. I clienti, inoltre, vengono divisi in cittadini
+ed enti. Il cliente di tipo ente ratterizzato anche dal nome del delegante.
+La richiesta viene identifi cata da un codice e deve essere presentata
+tramite portale web dedicato. Il cliente puettuare un’unica richiesta
+al giorno. La domanda deve contenere il nome, il cognome, il codi-
+ce fi scale, l’indirizzo, il comune e la provincia di residenza, il tipo
+del richiedente (cittadino o ente), il servizio desiderato (il nome) e la
+sede di interesse, selezionando, gerarchicamente, regione, provincia
+ed eventualmente il comune. Una volta effettuata la richiesta, questa
+viene memorizzata nella base di dati. In base al numero di domande
+gicevute per quel servizio e tenuto conto delle stime del settore della
+sede selezionata, l’utente riceve una notifi ca nella sezione notifi che.In
+essa compaiono, in un testo giedisposto, i dati anagrafi ci inseriti (nome,
+cognome e codice fi scale), i dati geografi ci inseriti (indirizzo, comunee
+provincia), l’area (il nome) e l’uffi cio a cui presentarsi, il giorno e l’ora
+di convocazione.
